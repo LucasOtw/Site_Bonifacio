@@ -1,0 +1,50 @@
+body {
+    background-color: #cef;
+    
+    
+}
+
+header {
+    border: 1px inset ;
+    height: 15em;
+    width: 10em;
+    background-color: #69f;
+    margin-left: 0em;
+    margin-right: 90em;
+    margin-top: 5em;
+    text-align: center;
+    
+
+}
+
+
+
+
+
+
+article > aside {
+    background-color: rgb(255, 166, 0);
+    margin-left: 12em;
+    margin-right: 12em;
+    position :relative;
+    border: 4px inset;
+    padding-left: 1em;
+    padding-right: 1em;
+    
+    
+}
+
+footer {
+    border : 1px inset;
+    height: 8em;
+    width: 8em;
+    background-color: #69f;
+    margin-left: 86em;
+    margin-right: O;
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 16;
+    position: absolute;
+
+    
+}

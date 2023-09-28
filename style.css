@@ -1,5 +1,8 @@
 body {
     background-color: #cef;
+    border: 4px inset;
+    margin-left: 10em;
+    margin-right: 10em;
     
     
 }
@@ -13,10 +16,18 @@ header {
     margin-right: 90em;
     margin-top: 5em;
     text-align: center;
-    
+    position:fixed;
+    align-items: center;
 
 }
 
+header ul {
+    list-style: disc inside url(images/maure.png);
+}
+article {
+    display : inline-block;
+    text-align: center;
+}
 
 
 

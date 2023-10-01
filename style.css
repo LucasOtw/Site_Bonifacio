@@ -7,7 +7,7 @@ nav {
    height: 15em;
    background-color: #69f;
    padding:20px;
-   position: sticky;
+   position: fixed;
    border: 1px solid black;
    
  }
@@ -81,6 +81,7 @@ footer {
    width: 7em;
    padding: 1em;
    float: right;
+   position: absolute;
    
    
 }
